@@ -10,7 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT Preview card](https://domilsonfirmino.github.io/NFT-preview-card/)
 
 ### What I learned
 
